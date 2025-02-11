@@ -1,0 +1,163 @@
+Sample ID,Gene Name,Variant Type,Chromosome,Position,Reference Allele,Variant Allele,Variant Effect,Variant Frequency,Genotype,Phenotype,Expression Level,Clinical Significance
+S001,BRCA1,SNP,17,41223156,C,T,Missense mutation,0.03,Heterozygous,Affected,10.5,Pathogenic
+S002,TP53,INDEL,17,7568295,GTTG,G,Frameshift,0.01,Homozygous,Unaffected,5.2,Benign
+S003,EGFR,SNP,7,55299200,A,G,Synonymous,0.15,Heterozygous,Affected,2.4,Unknown
+S004,BRCA1,SNP,17,41223159,T,C,Silent mutation,0.05,Homozygous,Unaffected,8.3,Benign
+S005,TP53,INDEL,17,7568298,GTTG,G,Frameshift,0.02,Heterozygous,Affected,6.1,Pathogenic
+S006,EGFR,SNP,7,55299210,G,T,Missense mutation,0.1,Heterozygous,Unaffected,3.8,Unknown
+S007,BRCA1,SNP,17,41223200,C,T,Missense mutation,0.03,Homozygous,Affected,7.2,Pathogenic
+S008,TP53,INDEL,17,7568300,GTTG,G,Frameshift,0.01,Homozygous,Affected,4.4,Pathogenic
+S009,EGFR,SNP,7,55299250,A,G,Synonymous,0.12,Heterozygous,Unaffected,9,Unknown
+S010,BRCA1,SNP,17,41223300,C,A,Missense mutation,0.07,Heterozygous,Affected,6,Pathogenic
+S011,EGFR,SNP,7,55299210,G,T,Missense mutation,0.1,Heterozygous,Unaffected,3.8,Unknown
+S012,BRCA1,SNP,17,41223156,C,T,Missense mutation,0.03,Heterozygous,Affected,10.5,Pathogenic
+S013,TP53,INDEL,17,7568295,GTTG,G,Frameshift,0.01,Homozygous,Unaffected,5.2,Benign
+S014,EGFR,SNP,7,55299200,A,G,Synonymous,0.15,Heterozygous,Affected,2.4,Unknown
+S015,BRCA1,SNP,17,41223159,T,C,Silent mutation,0.05,Homozygous,Unaffected,8.3,Benign
+S016,TP53,INDEL,17,7568298,GTTG,G,Frameshift,0.02,Heterozygous,Affected,6.1,Pathogenic
+S017,EGFR,SNP,7,55299210,G,T,Missense mutation,0.1,Heterozygous,Unaffected,3.8,Unknown
+S018,BRCA1,SNP,17,41223200,C,T,Missense mutation,0.03,Homozygous,Affected,7.2,Pathogenic
+S019,TP53,INDEL,17,7568300,GTTG,G,Frameshift,0.01,Homozygous,Affected,4.4,Pathogenic
+S020,EGFR,SNP,7,55299250,A,G,Synonymous,0.12,Heterozygous,Unaffected,9,Unknown
+S021,BRCA1,SNP,17,41223300,C,A,Missense mutation,0.07,Heterozygous,Affected,6,Pathogenic
+S022,BRCA2,SNP,13,32889720,G,A,Missense mutation,0.05,Heterozygous,Affected,7.8,Pathogenic
+S023,TP53,SNP,17,7568320,T,C,Silent mutation,0.08,Homozygous,Unaffected,8.1,Benign
+S024,EGFR,INDEL,7,55299300,GTT,G,Frameshift,0.02,Heterozygous,Affected,6.3,Unknown
+S025,BRCA1,SNP,17,41223500,T,G,Missense mutation,0.06,Heterozygous,Affected,5.5,Pathogenic
+S026,TP53,SNP,17,7568350,A,T,Missense mutation,0.04,Heterozygous,Affected,5.9,Pathogenic
+S027,EGFR,INDEL,7,55299350,GTTG,G,Frameshift,0.03,Homozygous,Unaffected,7.1,Unknown
+S028,BRCA2,SNP,13,32889750,C,T,Silent mutation,0.09,Heterozygous,Unaffected,8.6,Benign
+S029,TP53,INDEL,17,7568370,GTTG,G,Frameshift,0.01,Homozygous,Affected,6.4,Pathogenic
+S030,BRCA1,SNP,17,41223800,A,G,Missense mutation,0.04,Heterozygous,Affected,9.2,Pathogenic
+S031,EGFR,SNP,7,55299370,C,T,Missense mutation,0.15,Homozygous,Unaffected,6.5,Unknown
+S032,TP53,SNP,17,7568390,C,T,Silent mutation,0.11,Heterozygous,Unaffected,7.9,Benign
+S033,BRCA2,INDEL,13,32889800,GTTG,G,Frameshift,0.02,Homozygous,Affected,5.3,Pathogenic
+S034,EGFR,SNP,7,55299400,T,C,Synonymous,0.12,Heterozygous,Unaffected,4.7,Unknown
+S035,BRCA1,INDEL,17,41223900,GTT,G,Frameshift,0.03,Homozygous,Affected,8.2,Pathogenic
+S036,BRCA2,SNP,13,32889900,A,G,Missense mutation,0.04,Heterozygous,Affected,7.1,Pathogenic
+S037,TP53,INDEL,17,7568400,GTTG,G,Frameshift,0.02,Homozygous,Affected,6.8,Pathogenic
+S038,EGFR,SNP,7,55299450,G,T,Missense mutation,0.06,Heterozygous,Affected,5.9,Unknown
+S039,BRCA1,SNP,17,41224000,T,C,Silent mutation,0.08,Heterozygous,Unaffected,9.4,Benign
+S040,TP53,INDEL,17,7568410,GTTG,G,Frameshift,0.01,Homozygous,Affected,7.3,Pathogenic
+S041,EGFR,SNP,7,55299500,A,G,Synonymous,0.09,Heterozygous,Unaffected,8.7,Unknown
+S042,BRCA2,SNP,13,32890000,G,A,Missense mutation,0.05,Heterozygous,Affected,6.5,Pathogenic
+S043,TP53,SNP,17,7568420,T,C,Silent mutation,0.12,Homozygous,Unaffected,7.2,Benign
+S044,EGFR,INDEL,7,55299550,GTT,G,Frameshift,0.03,Heterozygous,Affected,6.2,Unknown
+S045,BRCA1,SNP,17,41224100,G,A,Missense mutation,0.06,Heterozygous,Affected,5.8,Pathogenic
+S046,TP53,INDEL,17,7568430,GTTG,G,Frameshift,0.02,Homozygous,Affected,6.4,Pathogenic
+S047,EGFR,SNP,7,55299600,T,C,Synonymous,0.15,Heterozygous,Unaffected,4.9,Unknown
+S048,BRCA2,INDEL,13,32890100,GTTG,G,Frameshift,0.04,Homozygous,Affected,7,Pathogenic
+S049,TP53,SNP,17,7568440,A,T,Missense mutation,0.05,Heterozygous,Affected,7.8,Pathogenic
+S050,EGFR,INDEL,7,55299650,GTTG,G,Frameshift,0.01,Homozygous,Unaffected,7.4,Unknown
+S051,BRCA1,SNP,17,41224200,C,T,Silent mutation,0.03,Heterozygous,Unaffected,8,Benign
+S052,TP53,INDEL,17,7568450,GTTG,G,Frameshift,0.02,Homozygous,Affected,5.9,Pathogenic
+S053,EGFR,SNP,7,55299700,G,T,Missense mutation,0.1,Heterozygous,Unaffected,6.6,Unknown
+S054,BRCA2,SNP,13,32890200,T,C,Silent mutation,0.12,Heterozygous,Affected,9.3,Benign
+S055,TP53,SNP,17,7568460,A,G,Missense mutation,0.04,Heterozygous,Affected,6.8,Pathogenic
+S056,EGFR,INDEL,7,55299750,GTT,G,Frameshift,0.05,Homozygous,Unaffected,6.4,Unknown
+S057,BRCA1,SNP,17,41224300,T,G,Missense mutation,0.07,Heterozygous,Affected,5.7,Pathogenic
+S058,TP53,INDEL,17,7568470,GTTG,G,Frameshift,0.01,Homozygous,Affected,6.3,Pathogenic
+S059,EGFR,SNP,7,55299800,C,T,Synonymous,0.06,Heterozygous,Unaffected,7.7,Unknown
+S060,BRCA2,SNP,13,32890300,G,A,Missense mutation,0.02,Heterozygous,Affected,5.6,Pathogenic
+S061,TP53,INDEL,17,7568480,GTTG,G,Frameshift,0.03,Homozygous,Affected,6.9,Pathogenic
+S062,BRCA1,SNP,17,41224300,T,G,Missense mutation,0.07,Heterozygous,Affected,5.7,Pathogenic
+S063,BRCA1,SNP,17,41223156,C,T,Missense mutation,0.03,Heterozygous,Affected,10.5,Pathogenic
+S064,TP53,INDEL,17,7568295,GTTG,G,Frameshift,0.01,Homozygous,Unaffected,5.2,Benign
+S065,EGFR,SNP,7,55299200,A,G,Synonymous,0.15,Heterozygous,Affected,2.4,Unknown
+S066,BRCA1,SNP,17,41223159,T,C,Silent mutation,0.05,Homozygous,Unaffected,8.3,Benign
+S067,TP53,INDEL,17,7568298,GTTG,G,Frameshift,0.02,Heterozygous,Affected,6.1,Pathogenic
+S068,EGFR,SNP,7,55299210,G,T,Missense mutation,0.1,Heterozygous,Unaffected,3.8,Unknown
+S069,BRCA1,SNP,17,41223200,C,T,Missense mutation,0.03,Homozygous,Affected,7.2,Pathogenic
+S070,TP53,INDEL,17,7568300,GTTG,G,Frameshift,0.01,Homozygous,Affected,4.4,Pathogenic
+S071,EGFR,SNP,7,55299250,A,G,Synonymous,0.12,Heterozygous,Unaffected,9,Unknown
+S072,BRCA1,SNP,17,41223300,C,A,Missense mutation,0.07,Heterozygous,Affected,6,Pathogenic
+S073,BRCA2,SNP,13,32889720,G,A,Missense mutation,0.05,Heterozygous,Affected,7.8,Pathogenic
+S074,TP53,SNP,17,7568320,T,C,Silent mutation,0.08,Homozygous,Unaffected,8.1,Benign
+S075,EGFR,INDEL,7,55299300,GTT,G,Frameshift,0.02,Heterozygous,Affected,6.3,Unknown
+S076,BRCA1,SNP,17,41223500,T,G,Missense mutation,0.06,Heterozygous,Affected,5.5,Pathogenic
+S077,TP53,SNP,17,7568350,A,T,Missense mutation,0.04,Heterozygous,Affected,5.9,Pathogenic
+S078,EGFR,INDEL,7,55299350,GTTG,G,Frameshift,0.03,Homozygous,Unaffected,7.1,Unknown
+S079,BRCA2,SNP,13,32889750,C,T,Silent mutation,0.09,Heterozygous,Unaffected,8.6,Benign
+S080,TP53,INDEL,17,7568370,GTTG,G,Frameshift,0.01,Homozygous,Affected,6.4,Pathogenic
+S081,BRCA1,SNP,17,41223800,A,G,Missense mutation,0.04,Heterozygous,Affected,9.2,Pathogenic
+S082,EGFR,SNP,7,55299370,C,T,Missense mutation,0.15,Homozygous,Unaffected,6.5,Unknown
+S083,TP53,SNP,17,7568390,C,T,Silent mutation,0.11,Heterozygous,Unaffected,7.9,Benign
+S084,BRCA2,INDEL,13,32889800,GTTG,G,Frameshift,0.02,Homozygous,Affected,5.3,Pathogenic
+S085,EGFR,SNP,7,55299400,T,C,Synonymous,0.12,Heterozygous,Unaffected,4.7,Unknown
+S086,BRCA1,INDEL,17,41223900,GTT,G,Frameshift,0.03,Homozygous,Affected,8.2,Pathogenic
+S087,BRCA2,SNP,13,32889900,A,G,Missense mutation,0.04,Heterozygous,Affected,7.1,Pathogenic
+S088,TP53,INDEL,17,7568400,GTTG,G,Frameshift,0.02,Homozygous,Affected,6.8,Pathogenic
+S089,EGFR,SNP,7,55299500,G,T,Missense mutation,0.06,Heterozygous,Affected,5.9,Unknown
+S090,BRCA1,SNP,17,41224000,T,C,Silent mutation,0.08,Heterozygous,Unaffected,9.4,Benign
+S091,TP53,INDEL,17,7568410,GTTG,G,Frameshift,0.01,Homozygous,Affected,7.3,Pathogenic
+S092,EGFR,SNP,7,55299500,A,G,Synonymous,0.09,Heterozygous,Unaffected,8.7,Unknown
+S093,BRCA2,SNP,13,32890000,G,A,Missense mutation,0.05,Heterozygous,Affected,6.5,Pathogenic
+S094,TP53,SNP,17,7568420,T,C,Silent mutation,0.12,Homozygous,Unaffected,7.2,Benign
+S095,EGFR,INDEL,7,55299550,GTT,G,Frameshift,0.03,Heterozygous,Affected,6.2,Unknown
+S096,BRCA1,SNP,17,41224100,G,A,Missense mutation,0.06,Heterozygous,Affected,5.8,Pathogenic
+S097,TP53,INDEL,17,7568430,GTTG,G,Frameshift,0.02,Homozygous,Affected,6.4,Pathogenic
+S098,EGFR,SNP,7,55299600,T,C,Synonymous,0.15,Heterozygous,Unaffected,4.9,Unknown
+S099,BRCA2,INDEL,13,32890100,GTTG,G,Frameshift,0.04,Homozygous,Affected,7,Pathogenic
+S100,TP53,SNP,17,7568440,A,T,Missense mutation,0.05,Heterozygous,Affected,7.8,Pathogenic
+S101,EGFR,INDEL,7,55299650,GTTG,G,Frameshift,0.01,Homozygous,Unaffected,7.4,Unknown
+S102,BRCA1,SNP,17,41224200,C,T,Silent mutation,0.03,Heterozygous,Unaffected,8,Benign
+S103,TP53,INDEL,17,7568450,GTTG,G,Frameshift,0.02,Homozygous,Affected,5.9,Pathogenic
+S104,EGFR,SNP,7,55299700,G,T,Missense mutation,0.1,Heterozygous,Unaffected,6.6,Unknown
+S105,BRCA2,SNP,13,32890200,T,C,Silent mutation,0.12,Heterozygous,Affected,9.3,Benign
+S106,TP53,SNP,17,7568460,A,G,Missense mutation,0.04,Heterozygous,Affected,6.8,Pathogenic
+S107,EGFR,INDEL,7,55299750,GTT,G,Frameshift,0.05,Homozygous,Unaffected,6.4,Unknown
+S108,BRCA1,SNP,17,41224300,T,G,Missense mutation,0.07,Heterozygous,Affected,5.7,Pathogenic
+S109,TP53,INDEL,17,7568470,GTTG,G,Frameshift,0.01,Homozygous,Affected,6.3,Pathogenic
+S110,EGFR,SNP,7,55299800,C,T,Synonymous,0.06,Heterozygous,Unaffected,7.7,Unknown
+S111,BRCA2,SNP,13,32890300,G,A,Missense mutation,0.02,Heterozygous,Affected,5.6,Pathogenic
+S112,TP53,INDEL,17,7568480,GTTG,G,Frameshift,0.03,Homozygous,Affected,6.9,Pathogenic
+S113,BRCA1,SNP,17,41224400,T,A,Missense mutation,0.05,Heterozygous,Unaffected,7.5,Pathogenic
+S114,TP53,INDEL,17,7568490,GTTG,G,Frameshift,0.02,Homozygous,Affected,5.9,Pathogenic
+S115,EGFR,SNP,7,55299850,G,T,Missense mutation,0.1,Heterozygous,Unaffected,7.2,Unknown
+S116,BRCA2,INDEL,13,32890400,GTTG,G,Frameshift,0.03,Homozygous,Affected,6.3,Pathogenic
+S117,TP53,SNP,17,7568500,C,G,Silent mutation,0.04,Heterozygous,Unaffected,7.8,Benign
+S118,EGFR,SNP,7,55299900,A,G,Synonymous,0.08,Heterozygous,Affected,5.6,Unknown
+S119,BRCA1,SNP,17,41224500,G,C,Missense mutation,0.02,Heterozygous,Unaffected,6.9,Pathogenic
+S120,TP53,INDEL,17,7568510,GTTG,G,Frameshift,0.03,Homozygous,Affected,7.3,Pathogenic
+S121,EGFR,SNP,7,55299950,T,A,Missense mutation,0.05,Heterozygous,Unaffected,7.1,Unknown
+S122,BRCA2,SNP,13,32890500,A,G,Silent mutation,0.04,Homozygous,Affected,7.2,Benign
+S123,TP53,INDEL,17,7568520,GTTG,G,Frameshift,0.02,Homozygous,Affected,6.8,Pathogenic
+S124,EGFR,SNP,7,55300000,C,T,Missense mutation,0.1,Heterozygous,Unaffected,6.5,Unknown
+S125,BRCA1,SNP,17,41224600,A,G,Missense mutation,0.05,Heterozygous,Affected,6.7,Pathogenic
+S126,TP53,INDEL,17,7568530,GTTG,G,Frameshift,0.02,Homozygous,Affected,6.2,Pathogenic
+S127,EGFR,SNP,7,55300050,G,T,Synonymous,0.07,Heterozygous,Unaffected,8.1,Unknown
+S128,BRCA2,SNP,13,32890600,T,C,Missense mutation,0.06,Heterozygous,Affected,6.3,Pathogenic
+S129,TP53,INDEL,17,7568540,GTTG,G,Frameshift,0.01,Homozygous,Affected,7.6,Pathogenic
+S130,EGFR,SNP,7,55300100,C,G,Silent mutation,0.09,Heterozygous,Unaffected,7,Unknown
+S131,BRCA1,INDEL,17,41224700,GTTG,G,Frameshift,0.03,Homozygous,Affected,6.5,Pathogenic
+S132,TP53,SNP,17,7568550,A,T,Missense mutation,0.06,Heterozygous,Affected,8.3,Pathogenic
+S133,EGFR,INDEL,7,55300150,G,T,Frameshift,0.05,Homozygous,Unaffected,6.7,Unknown
+S134,BRCA2,SNP,13,32890700,T,C,Silent mutation,0.02,Heterozygous,Affected,7.3,Benign
+S135,TP53,INDEL,17,7568560,GTTG,G,Frameshift,0.01,Homozygous,Affected,7.4,Pathogenic
+S136,EGFR,SNP,7,55300200,C,G,Missense mutation,0.06,Heterozygous,Unaffected,8,Unknown
+S137,BRCA1,SNP,17,41224800,T,G,Silent mutation,0.02,Heterozygous,Unaffected,9.2,Benign
+S138,TP53,SNP,17,7568570,G,A,Missense mutation,0.05,Heterozygous,Affected,6.6,Pathogenic
+S139,EGFR,SNP,7,55300250,T,C,Synonymous,0.08,Heterozygous,Unaffected,7.2,Unknown
+S140,BRCA2,SNP,13,32890800,G,A,Missense mutation,0.04,Heterozygous,Affected,7.5,Pathogenic
+S141,TP53,INDEL,17,7568580,GTTG,G,Frameshift,0.03,Homozygous,Affected,5.8,Pathogenic
+S142,EGFR,SNP,7,55300300,G,T,Missense mutation,0.05,Heterozygous,Affected,6.9,Unknown
+S143,BRCA1,SNP,17,41224900,A,C,Silent mutation,0.02,Heterozygous,Unaffected,8.9,Benign
+S144,TP53,INDEL,17,7568590,GTTG,G,Frameshift,0.01,Homozygous,Affected,5.6,Pathogenic
+S145,EGFR,SNP,7,55300350,A,G,Synonymous,0.06,Heterozygous,Unaffected,7.8,Unknown
+S146,BRCA2,SNP,13,32890900,G,T,Missense mutation,0.04,Heterozygous,Affected,6.8,Pathogenic
+S147,TP53,SNP,17,7568600,T,C,Silent mutation,0.05,Heterozygous,Unaffected,7.1,Benign
+S148,EGFR,INDEL,7,55300400,T,G,Frameshift,0.02,Homozygous,Affected,6.2,Unknown
+S149,BRCA1,SNP,17,41225000,C,T,Missense mutation,0.03,Heterozygous,Affected,6.6,Pathogenic
+S150,TP53,INDEL,17,7568610,GTTG,G,Frameshift,0.02,Homozygous,Affected,6.4,Pathogenic
+S151,EGFR,SNP,7,55300450,G,C,Missense mutation,0.1,Heterozygous,Unaffected,5.7,Unknown
+S152,BRCA2,INDEL,13,32891000,GTTG,G,Frameshift,0.04,Homozygous,Affected,5.5,Pathogenic
+S153,TP53,SNP,17,7568620,T,A,Missense mutation,0.06,Heterozygous,Affected,5.8,Pathogenic
+S154,EGFR,SNP,7,55300500,C,G,Silent mutation,0.07,Heterozygous,Unaffected,6.2,Unknown
+S155,BRCA1,INDEL,17,41225100,TTTT,T,Frameshift,0.04,Homozygous,Affected,6.3,Pathogenic
+S156,TP53,SNP,17,7568630,G,T,Silent mutation,0.03,Heterozygous,Unaffected,5.7,Benign
+S157,EGFR,INDEL,7,55300550,C,G,Frameshift,0.02,Heterozygous,Affected,6,Unknown
+S158,BRCA1,SNP,17,41225200,A,T,Silent mutation,0.05,Heterozygous,Unaffected,7.3,Benign
+S159,TP53,SNP,17,7568640,C,G,Missense mutation,0.06,Heterozygous,Affected,5.5,Pathogenic
+S160,EGFR,SNP,7,55300600,T,C,Synonymous,0.03,Heterozygous,Unaffected,7.8,Unknown
+S161,BRCA2,SNP,13,32891100,C,T,Silent mutation,0.02,Heterozygous,Affected,6.2,Benign
+S162,TP53,INDEL,17,7568650,GTTG,G,Frameshift,0.04,Homozygous,Affected,6.6,Pathogenic
